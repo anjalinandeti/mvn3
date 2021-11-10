@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>amezon</finalName>
+    <finalName>RELEASE-0.3</finalName>
   </build>
 </project>
